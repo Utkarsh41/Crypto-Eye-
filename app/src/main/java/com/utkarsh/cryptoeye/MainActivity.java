@@ -157,7 +157,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public Map<String, String> getHeaders() throws AuthFailureError {
                 HashMap<String,String> headers = new HashMap<>();
-                headers.put("X-CMC_PRO_API_KEY","c26d43fa-4d03-48e7-8f18-26a84e066cee");
+                headers.put("X-CMC_PRO_API_KEY","c26d43fa-4d03-48e-26a84e066cee");
                 return headers;
             }
         };
